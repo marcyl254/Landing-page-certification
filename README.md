@@ -46,7 +46,8 @@ For more information on the importance of a professional README for your reposit
 </li>
 <li><a href="#live-demo">🚀 Live Demo</a></li>
 </ul>
-</li>
+  ![image](https://github.com/marcyl254/Landing-page-certification/assets/150244592/34cff295-9721-40e0-bd52-38d530eb2c1f)</li>
+
 <li><a href="#getting-started">💻 Getting Started</a>
 <ul>
 <li><a href="#prerequisites">Prerequisites</a></li>
